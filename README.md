@@ -116,7 +116,7 @@ tabular waveform phase encoding.
 
 ## Sketch
 
-→ [`src/otp_reader_581/otp_reader_581.ino`](../src/otp_reader/otp_reader.ino)
+→ [`src/otp_reader/otp_reader.ino`](../src/otp_reader/otp_reader.ino)
 
 ---
 
